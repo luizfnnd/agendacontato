@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # agendacontatos
 
 Aplicativo que armazena contatos
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# agendacontato
+>>>>>>> 41a07ec9d3d77ef6bee1f2dbbe098d50ce4d7e7b
